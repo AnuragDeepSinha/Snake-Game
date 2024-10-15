@@ -16,7 +16,7 @@ You could add screenshots of the game here.
 1. Clone the repository:
 
 https://github.com/AnuragDeepSinha/Snake-Game.git
-cd snake-game
+
 
 2. Install the required dependencies: Make sure you have Python and Pygame installed. You can install Pygame using pip:
    
