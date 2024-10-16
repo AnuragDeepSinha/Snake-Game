@@ -8,9 +8,6 @@ Highscore tracking using a text file.
 Start screen and game-over screen.
 Customizable speed and snake size.
 
-# Screenshots
-You could add screenshots of the game here.
-
 # Installation
 
 1. Clone the repository:
